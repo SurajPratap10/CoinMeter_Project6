@@ -6,7 +6,7 @@
   <img src="w5.jpg"/>
 </p>
 
-<h3>Live Site<h3>:https://coin-meter-react-js.netlify.app/
+<h3>Live Site:https://coin-meter-react-js.netlify.app/<h3>
 
 ## <h2> Built with <h2>
 
