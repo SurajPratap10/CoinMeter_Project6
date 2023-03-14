@@ -1,6 +1,6 @@
 # CoinMeter
 
-### CoinMeter is a completely responsive and functional real-time Cryptocurrency data fetching app. This app gives you the facility to analyze the top cryptocurrencies across the world and see their real-time market cap and exchanges with the help of a properly designed historical chart for each coin with a clean UI experience. It also has a trending section where the last 24 hours profitable coins are shown. 
+### CoinMeter is a completely responsive and functional real-time Cryptocurrency data fetching app. This app gives you the facility to analyze the top cryptocurrencies across the world and see their real-time market cap and exchanges with the help of a properly designed historical chart for each coin with a clean UI experience.It also has a trending section where the last 24 hours profitable coins are shown. 
  
 <p align="center">
   <img src="w6.jpg"/>
