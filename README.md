@@ -6,15 +6,17 @@
   <img src="w6.jpg"/>
 </p>
 
-#### Live Site:https://coin-meter-react-js.netlify.app/<h3>
 
-## <h2> Built with <h2>
+
+## Built with 
 
   1) React JS
   2) Material UI 
   3) Chart JS
   4) Context API
   5) Coingecko API
+
+#### Live Site:https://coin-meter-react-js.netlify.app/ 
 
  # Getting Started with Create React App
 
