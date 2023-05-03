@@ -8,7 +8,7 @@
 
 
 
-## Built with 
+## Technologies Used 
 
   1) React JS
   2) Material UI 
